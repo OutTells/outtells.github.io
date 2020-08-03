@@ -6,7 +6,7 @@ title: Portfolio report August 3 2020
 **Aug 3**
 
 **General portfolio things**
-The portfolio is heavily concentrated on Qt and Remedy. Remedy being around 40%. I have been thinking about selling parts of these positions due to worsened risk profiles. Both companies showing bad news would mean a massive drop in the portfolio, and would wipe me out of the full-time investing game. 
+The portfolio is heavily concentrated on Qt and Remedy. Remedy being around 30%. I have been thinking about selling parts of these positions due to worsened risk profiles. Both companies showing bad news would mean a massive drop in the portfolio, and would wipe me out of the full-time investing game. 
 
 **Angler Gaming @ 16 SEK**
 Not much on this front. The degree of upside should be explored.
